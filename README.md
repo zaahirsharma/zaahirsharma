@@ -1,11 +1,12 @@
 
 You can click the Preview link to take a look at your changes.
 <h1 align="center">Howdy 👋, I'm Zaahir Sharma</h1>
+<h3 align="center">Computer Science student at Texas A&M University, Class of 2027</h3>
 <h3 align="center">A driven full-stack developer based in Houston, Texas.</h3>
 
-- 🔭 I’m currently working on **Portfolio Website**
+- 🔭 I’m currently working on **Backend Projects**
 
-- 🌱 I’m currently learning **React, React Native, and Appwrite**
+- 🌱 I’m currently learning **AI API Usage with Backend Applications**
 
 - 📫 How to reach me **sharma.zaahir@gmail.com**
 
