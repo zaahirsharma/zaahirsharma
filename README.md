@@ -3,7 +3,7 @@
 
 - 📚 Computer Science student at Texas A&M University, Class of 2027
 
-- 🔭 I’m currently working on **Backend Projects**
+- 🔭 I’m currently working on **AI Trading Bot**
 
 - 🌱 I’m currently learning **AI API Usage with Backend Applications**
 
