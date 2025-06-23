@@ -3,9 +3,9 @@
 
 - 📚 Computer Science student at Texas A&M University, Class of 2027
 
-- 🔭 I’m currently working on **AI Trading Bot**
+- 🔭 I’m currently working on **Python Projects**
 
-- 🌱 I’m currently learning **AI API Usage with Backend Applications**
+- 🌱 I’m currently learning **SQL Backend Applications**
 
 - 📫 How to reach me **sharma.zaahir@gmail.com**
 
