@@ -18,8 +18,9 @@
 # 📊 GitHub Stats:
 ![zaahirsharma's Stats](https://github-readme-stats.vercel.app/api?username=zaahirsharma&theme=great-gatsby&show_icons=true&hide_border=false&count_private=true) </br>
 ![zaahirsharma's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zaahirsharma&theme=great-gatsby&hide_border=false) </br>
-![zaahirsharma's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaahirsharma&theme=great-gatsby&show_icons=true&hide_border=false&layout=compact)
+![zaahirsharma's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaahirsharma&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ---
+
 [![](https://visitcount.itsvg.in/api?id=zaahirsharma&icon=3&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
