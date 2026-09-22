@@ -1,9 +1,9 @@
 <h1 align="center">Howdy 👋, I'm Zaahir Sharma</h1>
 <h3 align="center">A driven full-stack developer based in Houston, Texas.</h3>
 
-- 🔭 I’m currently working on **Full Stack University Organization App**
+- 🔭 I’m currently working on **Multi-Service Compatible Money Transfer App**
 
-- 🌱 I’m currently learning **Machine Learning and AI**
+- 🌱 I’m currently learning **AI Engineering and Full-Stack Development**
 
 - 📫 How to reach me **sharma.zaahir@gmail.com**
 
