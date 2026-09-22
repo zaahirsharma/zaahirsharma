@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Multi-Service Compatible Money Transfer App**
 
-- 🌱 I’m currently learning **AI Engineering and Full-Stack Development**
+- 🌱 I’m currently learning **AI Engineering and Project Management**
 
 - 📫 How to reach me **sharma.zaahir@gmail.com**
 
